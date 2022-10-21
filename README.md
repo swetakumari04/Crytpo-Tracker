@@ -1,6 +1,8 @@
 
 # Crypto Tracker
-Cryptocurrency Tracker with React JS, Material UI and Chart JS
+ A Cryptocurrency Tracker App in React JS, Material UI and Chart JS with full responsive fuctionality. 
+ Context API has been used to manage the state of our app and Coin Gecko API for backend.
+
 
 ## Snippets of the web page:
 => Homepage:
