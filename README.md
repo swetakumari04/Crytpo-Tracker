@@ -1,48 +1,25 @@
 
 # Crypto Tracker
-
 Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
-## Demo
+## Snippets of the web page:
+=> Homepage:
+![home](https://user-images.githubusercontent.com/80638381/197271527-c0662309-644d-490e-9d10-676dbbf73979.png)
 
-Live on netlify
+![cryptocurrencies](https://user-images.githubusercontent.com/80638381/197271761-b20bbe43-0613-4270-b026-88561a1d5859.png)
 
-https://crypto-tracker-himanshu.netlify.app/
-
-<img width="942" alt="Screenshot 2022-07-14 201553" src="https://user-images.githubusercontent.com/76220055/179024699-0f2b22d6-d394-45ee-bb56-1798462a5f61.png">
-
-
-
-
+=> individual cryptocurrencies
+![chart](https://user-images.githubusercontent.com/80638381/197271847-c94091a6-21ea-4410-8917-893d72eac924.png)
 
 ## Installation
-Open your terminal and then type
-```bash
-git clone {the url to the GitHub repo}
-```
-cd into the new folder and type
-```bash
-cd crypto-tracker
-```
-Install my-project with npm
+=> Open your terminal and then type
+<ul>git clone {the url to the GitHub repo}</ul>
+=> cd into the new folder and type
+<ul>cd Crypto-Tracker</ul>
 
-```bash
-npm install
-```
-
-To run the crypto-tracker project
-```bash
-npm start
-```
-## Built with
-
-- React JS
-- Chart JS
-- Material UI
-
-
-
-## Made by 
-
-[Himanshu Malviya](https://www.github.com/Himanshu664)
-
+## Made with
+<ul>HTML</ul>
+<ul>CSS</ul>
+<ul>ReactJS</ul>
+<ul>Material UI</ul>
+<ul>Chart Js</ul>
