@@ -3,7 +3,6 @@
  A Cryptocurrency Tracker App in React JS, Material UI and Chart JS with full responsive fuctionality. 
  Context API has been used to manage the state of our app and Coin Gecko API for backend.
 
-
 ## Snippets of the web page:
 => Homepage:
 ![home](https://user-images.githubusercontent.com/80638381/197271527-c0662309-644d-490e-9d10-676dbbf73979.png)
